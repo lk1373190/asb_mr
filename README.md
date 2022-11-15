@@ -1,9 +1,9 @@
 
-# Assessing causality in the relationship between resting heart rate and antisocial behaviour: A Mendelian randomisation study.
+# Resting heart rate and antisocial behaviour: A Mendelian randomisation study.
 
 
 ## Introduction
-The current repository contains scripts and data for reproducing the findings from the article ["Assessing causality in the relationship between resting heart rate and antisocial behaviour: A Mendelian randomisation study."][INSERT BIORXIV LINK HERE]. Scripts are provided in .Rmd and .md formats (.md format is recommended for viewing)
+The current repository contains scripts and data for reproducing the findings from the article ["Resting heart rate and antisocial behaviour: A Mendelian randomisation study."][INSERT LINK HERE]. Scripts are provided in .Rmd and .md formats (.md format is recommended for viewing)
 
 
 ## Technologies
@@ -32,7 +32,4 @@ The data analysed in the MR analysis were sourced from the following Genome Wide
         - ["CONSORTIUM"] [INSERT ARTICLE LINK]
 
 ### 3. Heart rate variability
-        - ["CONSORTIUM"] [INSERT ARTICLE LINK]
-
-### 4. Heart rate during exercise
         - ["CONSORTIUM"] [INSERT ARTICLE LINK]
