@@ -2,28 +2,21 @@
 # Resting heart rate and antisocial behaviour: A Mendelian randomisation study.
 
 
-## Introduction
+## Description
 The current repository contains scripts and data for reproducing the findings from the article ["Resting heart rate and antisocial behaviour: A Mendelian randomisation study."][INSERT LINK HERE]. Scripts are provided in .Rmd and .md formats (.md format is recommended for viewing).
 
+## Scripts
+### Sources
+A lot of the code used in this project has been inspired by the "TwoSampleMR" package and tutorial by
+[@mrcieu](https://mrcieu.github.io/TwoSampleMR/articles/introduction.html)
 
-## Technologies
-Project is created with:
-* RStudio
-
-## Package info
+### Package info
 The following packages (versions) are required to run the code:
         - 
         -
         -
         -
         -
-        
-
-
-## Sources
-A lot of the code used in this project has been inspired by the "TwoSampleMR" package and tutorial by
-[@mrcieu](https://mrcieu.github.io/TwoSampleMR/articles/introduction.html)
-
 
 ## Data
 The data analysed in the MR analysis were sourced from the following Genome Wide Association Studies:
