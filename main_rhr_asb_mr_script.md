@@ -15,7 +15,7 @@ This is an Markdown document detailing the analysis steps for the paper titled [
 -   [Load exposure data](#load-exposure-data)
 -   [Process exposure data](#process-exposure-data)
 -   [Quality control procedures](#quality-control-procedures)
--       [A. Select significant SNPs](A.-select-significant-SNPs)
+-   [A. Select significant SNPs](A.-select-significant-SNPs)
 -       [B. Only keep exposure SNPs which are also in the outcome dataset](B.-only-keep-exposure-SNPs-which-are-also-in-the-outcome-dataset)
 -       [C. Clump the exposure data](C.-clump-the-exposure-data)
 -       [D. Harmonise the summary statistics](D.-harmonise-the-summary-statistics)
