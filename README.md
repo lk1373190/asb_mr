@@ -6,10 +6,12 @@
 The current repository contains scripts and data for reproducing the findings from the article ["Resting heart rate and antisocial behaviour: A Mendelian randomisation study."](INSERT LINK HERE). 
 
 ## Scripts
-Scripts are provided in .Rmd and .md formats (.md format is recommended for viewing).
+Scripts are provided in .md formats.
+* Main analyses - "main_hr_asb_mr_script.md"
+* Additional analyses - "additional_hr_asb_mr_script.md
 
 ### Package info
-The following packages (versions) are required to run the code:
+The following packages (and versions) are required to run the code:
 * arrangements (1.1.9)
 * data.table (1.14.8)
 * devtools (2.4.5)
