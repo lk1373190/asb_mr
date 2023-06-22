@@ -3,12 +3,10 @@
 
 
 ## Description
-The current repository contains scripts and data for reproducing the findings from the article ["Resting heart rate and antisocial behaviour: A Mendelian randomisation study."](INSERT LINK HERE). Scripts are provided in .Rmd and .md formats (.md format is recommended for viewing).
+The current repository contains scripts and data for reproducing the findings from the article ["Resting heart rate and antisocial behaviour: A Mendelian randomisation study."](INSERT LINK HERE). 
 
 ## Scripts
-### Sources
-A lot of the code used in this project has been inspired by the "TwoSampleMR" package and tutorial by
-[@mrcieu](https://mrcieu.github.io/TwoSampleMR/articles/introduction.html)
+Scripts are provided in .Rmd and .md formats (.md format is recommended for viewing).
 
 ### Package info
 The following packages (versions) are required to run the code:
@@ -19,12 +17,16 @@ The following packages (versions) are required to run the code:
 * gmodels (2.18.1.1)
 * here (1.0.1)
 * MendelianRandomization (0.7.0)
-*  mr.raps (0.2)
+* mr.raps (0.2)
 * MRPRESSO (1.0)
 * TwoSampleMR (0.5.7)
 
+### Sources
+A lot of the code used in this project has been inspired by the "TwoSampleMR" package and tutorial by
+[@mrcieu](https://mrcieu.github.io/TwoSampleMR/articles/introduction.html)
+
 ## Data
-The data analysed in the MR analysis were sourced from the following Genome Wide Association Studies:
+No data files are included in this repository. The data analysed in the MR analysis were sourced from the following Genome Wide Association Studies.
 ### 1. Antisocial behaviour
 * [Uncovering the genetic architecture of broad antisocial behavior through a genome-wide association study meta-analysis](https://doi.org/10.1038/s41380-022-01793-3)
 * Data available on request directly from the study authors: [Dr Jorim J. Tielbeek](j.tielbeek@amsterdamumc.nl).
